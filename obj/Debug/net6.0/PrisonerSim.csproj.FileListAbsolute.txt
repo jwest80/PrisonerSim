@@ -1,0 +1,15 @@
+C:\Code\Jeremy\PrisonerSim\obj\Debug\net6.0\PrisonerSim.csproj.AssemblyReference.cache
+C:\Code\Jeremy\PrisonerSim\obj\Debug\net6.0\PrisonerSim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Jeremy\PrisonerSim\obj\Debug\net6.0\PrisonerSim.AssemblyInfoInputs.cache
+C:\Code\Jeremy\PrisonerSim\obj\Debug\net6.0\PrisonerSim.AssemblyInfo.cs
+C:\Code\Jeremy\PrisonerSim\obj\Debug\net6.0\PrisonerSim.csproj.CoreCompileInputs.cache
+C:\Code\Jeremy\PrisonerSim\bin\Debug\net6.0\PrisonerSim.exe
+C:\Code\Jeremy\PrisonerSim\bin\Debug\net6.0\PrisonerSim.deps.json
+C:\Code\Jeremy\PrisonerSim\bin\Debug\net6.0\PrisonerSim.runtimeconfig.json
+C:\Code\Jeremy\PrisonerSim\bin\Debug\net6.0\PrisonerSim.dll
+C:\Code\Jeremy\PrisonerSim\bin\Debug\net6.0\PrisonerSim.pdb
+C:\Code\Jeremy\PrisonerSim\obj\Debug\net6.0\PrisonerSim.dll
+C:\Code\Jeremy\PrisonerSim\obj\Debug\net6.0\refint\PrisonerSim.dll
+C:\Code\Jeremy\PrisonerSim\obj\Debug\net6.0\PrisonerSim.pdb
+C:\Code\Jeremy\PrisonerSim\obj\Debug\net6.0\PrisonerSim.genruntimeconfig.cache
+C:\Code\Jeremy\PrisonerSim\obj\Debug\net6.0\ref\PrisonerSim.dll
